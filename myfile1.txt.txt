@@ -1,1 +1,8 @@
-gggh
+git branch mynewbranch
+git checkout mynewbranch
+touch mytextfile.txt
+
+git add .
+git status
+git commit -m "mytextfile added"
+git push -u origin Mynewbranch
