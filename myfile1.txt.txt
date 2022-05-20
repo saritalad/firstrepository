@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git branch mynewbranch
 git checkout mynewbranch
 touch mytextfile.txt
@@ -6,3 +7,7 @@ git add .
 git status
 git commit -m "mytextfile added"
 git push -u origin Mynewbranch
+=======
+gggh
+this is the change i made in file
+>>>>>>> MyNewBranch
